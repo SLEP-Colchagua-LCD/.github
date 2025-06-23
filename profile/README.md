@@ -23,12 +23,12 @@ Sus funcionalidades incluyen:
 ## 📂 Recursos y documentación técnica
 
 📄 **Plantillas de trabajo**
-- 🐞 [Bug Report](./blob/main/.github/ISSUE_TEMPLATE/bug_report.md)
-- ✨ [Feature Request](./blob/main/.github/ISSUE_TEMPLATE/feature_request.md)
-- 🤝 [Guía de Contribución](./blob/main/.github/CONTRIBUTING.md)
-- 🔀 [Pull Request Template](./blob/main/.github/PULL_REQUEST_TEMPLATE.md)
-- 📜 [Código de Conducta](./blob/main/.github/CODE_OF_CONDUCT.md)
-- 🛡️ [Política de Seguridad](./blob/main/.github/SECURITY.md)
+- 🐞 [Bug Report](.github/ISSUE_TEMPLATE/bug_report.md)
+- ✨ [Feature Request](.github/ISSUE_TEMPLATE/feature_request.md)
+- 🤝 [Guía de Contribución](.github/CONTRIBUTING.md)
+- 🔀 [Pull Request Template](.github/PULL_REQUEST_TEMPLATE.md)
+- 📜 [Código de Conducta](.github/CODE_OF_CONDUCT.md)
+- 🛡️ [Política de Seguridad](.github/SECURITY.md)
 
 📘 **Documentos internos**
 - 🧱 [Arquitectura del sistema](./blob/main/docs/ARQUITECTURA.md)
