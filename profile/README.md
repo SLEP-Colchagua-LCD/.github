@@ -1,7 +1,7 @@
 # 📘 SLEP Colchagua – Libro de Clases Digital (LCD)
 
 ¡Bienvenidos al espacio tecnológico del **Servicio Local de Educación Pública de Colchagua**!  
-Este repositorio central es parte de nuestro ecosistema privado para la transformación digital educativa. 🚀
+Este repositorio central forma parte de nuestro ecosistema privado para la transformación digital educativa. 🚀
 
 ---
 
@@ -33,26 +33,45 @@ Sus principales funcionalidades incluyen:
 
 ### Documentos internos
 
-- 🧱 [Arquitectura del sistema](docs/ARQUITECTURA.md)
-- 🚀 [Manual de despliegue](docs/DEPLOY.md)
-- 👥 [Roles y accesos](docs/ROLES.md)
+- 🧱 [Arquitectura del sistema](https://github.com/SLEP-Colchagua-LCD/.github-private/blob/main/docs/ARQUITECTURA.md)
+- 🚀 [Manual de despliegue](https://github.com/SLEP-Colchagua-LCD/.github-private/blob/main/docs/DEPLOY.md)
+- 👥 [Roles y accesos](https://github.com/SLEP-Colchagua-LCD/.github-private/blob/main/docs/ROLES.md)
 
 ---
 
 ## 🛠️ Stack tecnológico
 
-<table>More actions
+<table>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40"/><br>Angular</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/><br>Node.js</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/><br>TypeScript</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>Python</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/><br>Docker</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/><br>Kubernetes</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40"/><br>NGINX</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/goharborio/goharborio-icon.svg" width="40"/><br>Harbor</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/><br>Shell</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/><br>Linux</td>
   </tr>
 </table>
+
+---
+
+## 🎯 Indicadores clave
+
+Estos badges muestran los elementos estáticos más relevantes del proyecto:
+
+| Tipo                      | Badge                                                                                                                                       |
+|---------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| 📦 Último commit          | ![Last commit](https://img.shields.io/github/last-commit/SLEP-Colchagua-LCD/SLEP-Colchagua-LCD?style=flat-square&logo=github)              |
+| 🧠 Lenguaje principal     | ![Top language](https://img.shields.io/github/languages/top/SLEP-Colchagua-LCD/SLEP-Colchagua-LCD?style=flat-square&logo=typescript)        |
+| 🛡️ Seguridad Dependencias | ![Dependabot enabled](https://img.shields.io/github/dependabot/active/SLEP-Colchagua-LCD?style=flat-square&logo=dependabot)                 |
+| 📜 Licencia               | ![License](https://img.shields.io/github/license/SLEP-Colchagua-LCD/SLEP-Colchagua-LCD?style=flat-square&logo=open-source-initiative)       |
+| 🗂️ Tamaño del repositorio | ![Repo size](https://img.shields.io/github/repo-size/SLEP-Colchagua-LCD/SLEP-Colchagua-LCD?style=flat-square)                              |
+| 🔒 Visibilidad            | ![Private repo](https://img.shields.io/badge/repository-private-red?style=flat-square&logo=github)                                         |
+
+---
 ---
 
 ## 🌐 Contacto institucional
