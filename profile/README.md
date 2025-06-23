@@ -7,17 +7,17 @@ Este repositorio funciona como un **centro de referencia y orientación** para q
 
 ## 💡 ¿Qué es el Libro de Clases Digital?
 
-El **Libro de Clases Digital (LCD)** es una plataforma tecnológica que moderniza la gestión escolar en los establecimientos públicos del territorio SLEP Colchagua.  
+El **Libro de Clases Digital (LCD)** es una plataforma tecnológica que moderniza la gestión escolar en los establecimientos públicos del territorio SLEP Colchagua.
 
 Sus principales funcionalidades incluyen:
 
-- 📅 Registro digital de asistencia  
-- 📝 Ingreso y seguimiento de calificaciones  
-- 📊 Reportes administrativos y pedagógicos  
-- 🔗 Integración con SIGE y otros sistemas MINEDUC  
+- 📅 Registro digital de asistencia
+- 📝 Ingreso y seguimiento de calificaciones
+- 📊 Reportes administrativos y pedagógicos
+- 🔗 Integración con SIGE y otros sistemas MINEDUC
 - 📱 Acceso diferenciado para docentes, estudiantes y apoderados
 
-> ⚠️ *El código fuente y la infraestructura están alojados en repositorios privados. Este repositorio es solo informativo.*
+> ⚠️ _El código fuente y la infraestructura están alojados en repositorios privados. Este repositorio es solo informativo._
 
 ---
 
@@ -25,13 +25,13 @@ Sus principales funcionalidades incluyen:
 
 Si quieres participar del desarrollo o proponer mejoras, sigue estas opciones según tu perfil:
 
-### 🔐 Si eres parte del equipo SLEP o tienes acceso autorizado:
+### 🔐 Si eres parte del equipo SLEP o tienes acceso autorizado
 
 - Contacta al equipo TI: [soporte.ti@slepcolchagua.cl](mailto:soporte.ti@slepcolchagua.cl)
 - Solicita acceso a los repositorios privados
-- Una vez habilitado, revisa la [📘 Guía de contribución](./docs/GUIA_CONTRIBUCION.md)
+- Una vez habilitado, revisa la [📘 Guía de contribución](../docs/GUIA_CONTRIBUCION.md)
 
-### 📨 Si eres colaborador externo o asesor técnico:
+### 📨 Si eres colaborador externo o asesor técnico
 
 - Puedes proponer ideas o reportar errores abriendo un [issue en este repositorio público](https://github.com/SLEP-Colchagua-LCD/portal/issues)
 - También puedes enviar tus aportes por correo
@@ -40,9 +40,9 @@ Si quieres participar del desarrollo o proponer mejoras, sigue estas opciones se
 
 ## 📥 Recursos disponibles
 
-- 🤝 [Guía de contribución](./docs/GUIA_CONTRIBUCION.md)  
-- 📜 [Código de conducta](./docs/CODIGO_CONDUCTA.md)  
-- 🛡️ [Política de seguridad](./docs/POLITICA_SEGURIDAD.md)
+- 🤝 [Guía de contribución](../docs/GUIA_CONTRIBUCION.md)
+- 📜 [Código de conducta](../docs/CODIGO_CONDUCTA.md)
+- 🛡️ [Política de seguridad](../docs/POLITICA_SEGURIDAD.md)
 
 > Estos documentos son públicos y aplican a todos los repositorios internos de LCD.
 
