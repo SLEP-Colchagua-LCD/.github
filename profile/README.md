@@ -1,41 +1,50 @@
 # 📘 SLEP Colchagua – Libro de Clases Digital (LCD)
 
-¡Bienvenidos al espacio tecnológico del **Servicio Local de Educación Pública de Colchagua**!  
-Este repositorio central forma parte de nuestro ecosistema privado para la transformación digital educativa. 🚀
+¡Bienvenidos al espacio público de documentación del **Servicio Local de Educación Pública de Colchagua**!  
+Este repositorio funciona como un **centro de referencia y orientación** para quienes colaboran o desean colaborar con el proyecto **Libro de Clases Digital (LCD)**. 🚀
 
 ---
 
 ## 💡 ¿Qué es el Libro de Clases Digital?
 
-El **Libro de Clases Digital (LCD)** es una plataforma diseñada para modernizar la gestión escolar en establecimientos públicos.  
+El **Libro de Clases Digital (LCD)** es una plataforma tecnológica que moderniza la gestión escolar en los establecimientos públicos del territorio SLEP Colchagua.  
+
 Sus principales funcionalidades incluyen:
 
-- 📅 Registro digital de asistencia
-- 📝 Calificaciones en línea
-- 📊 Reportes automáticos
-- 🔗 Integración con sistemas del Ministerio de Educación
-- 📱 Acceso para docentes, apoderados y estudiantes
+- 📅 Registro digital de asistencia  
+- 📝 Ingreso y seguimiento de calificaciones  
+- 📊 Reportes administrativos y pedagógicos  
+- 🔗 Integración con SIGE y otros sistemas MINEDUC  
+- 📱 Acceso diferenciado para docentes, estudiantes y apoderados
 
-> ⚠️ _Este proyecto es privado y solo visible para usuarios autorizados._
+> ⚠️ *El código fuente y la infraestructura están alojados en repositorios privados. Este repositorio es solo informativo.*
 
 ---
 
-## 📂 Recursos y documentación técnica
+## 📂 ¿Cómo contribuir?
 
-### Plantillas de trabajo
+Si quieres participar del desarrollo o proponer mejoras, sigue estas opciones según tu perfil:
 
-- 🐞 [Reporte de errores](../ISSUE_TEMPLATE/bug_report.md)
-- ✨ [Solicitud de funcionalidades](../ISSUE_TEMPLATE/feature_request.md)
-- 🤝 [Guía de contribución](../CONTRIBUTING.md)
-- 🔀 [Plantilla de Pull Request](../PULL_REQUEST_TEMPLATE.md)
-- 📜 [Código de conducta](../CODE_OF_CONDUCT.md)
-- 🛡️ [Política de seguridad](../SECURITY.md)
+### 🔐 Si eres parte del equipo SLEP o tienes acceso autorizado:
 
-### Documentos internos
+- Contacta al equipo TI: [soporte.ti@slepcolchagua.cl](mailto:soporte.ti@slepcolchagua.cl)
+- Solicita acceso a los repositorios privados
+- Una vez habilitado, revisa la [📘 Guía de contribución](./docs/GUIA_CONTRIBUCION.md)
 
-- 🧱 [Arquitectura del sistema](https://github.com/SLEP-Colchagua-LCD/.github-private/blob/main/docs/ARQUITECTURA.md)
-- 🚀 [Manual de despliegue](https://github.com/SLEP-Colchagua-LCD/.github-private/blob/main/docs/DEPLOY.md)
-- 👥 [Roles y accesos](https://github.com/SLEP-Colchagua-LCD/.github-private/blob/main/docs/ROLES.md)
+### 📨 Si eres colaborador externo o asesor técnico:
+
+- Puedes proponer ideas o reportar errores abriendo un [issue en este repositorio público](https://github.com/SLEP-Colchagua-LCD/portal/issues)
+- También puedes enviar tus aportes por correo
+
+---
+
+## 📥 Recursos disponibles
+
+- 🤝 [Guía de contribución](./docs/GUIA_CONTRIBUCION.md)  
+- 📜 [Código de conducta](./docs/CODIGO_CONDUCTA.md)  
+- 🛡️ [Política de seguridad](./docs/POLITICA_SEGURIDAD.md)
+
+> Estos documentos son públicos y aplican a todos los repositorios internos de LCD.
 
 ---
 
@@ -48,9 +57,7 @@ Sus principales funcionalidades incluyen:
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/><br>TypeScript</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>Python</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/><br>Docker</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/><br>Kubernetes</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40"/><br>NGINX</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/goharborio/goharborio-icon.svg" width="40"/><br>Harbor</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/><br>Shell</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/><br>Linux</td>
   </tr>
@@ -58,10 +65,13 @@ Sus principales funcionalidades incluyen:
 
 ---
 
-## 🌐 Contacto institucional
+## 📫 Contacto institucional
 
-📧 [soporte.ti@slepcolchagua.cl](mailto:soporte.ti@slepcolchagua.cl)
+Para consultas, sugerencias o acceso:
+
+📧 [soporte.ti@slepcolchagua.cl](mailto:soporte.ti@slepcolchagua.cl)  
+🔒 Acceso a los repos privados disponible bajo autorización institucional
 
 ---
 
-**Transformando la educación pública a través de la tecnología.**
+**Tecnología pública, colaboración responsable.**
