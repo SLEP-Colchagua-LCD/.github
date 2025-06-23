@@ -58,22 +58,6 @@ Sus principales funcionalidades incluyen:
 
 ---
 
-## 🎯 Indicadores clave
-
-Estos badges muestran los elementos estáticos más relevantes del proyecto:
-
-| Tipo                      | Badge                                                                                                                                       |
-|---------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
-| 📦 Último commit          | ![Last commit](https://img.shields.io/github/last-commit/SLEP-Colchagua-LCD/SLEP-Colchagua-LCD?style=flat-square&logo=github)              |
-| 🧠 Lenguaje principal     | ![Top language](https://img.shields.io/github/languages/top/SLEP-Colchagua-LCD/SLEP-Colchagua-LCD?style=flat-square&logo=typescript)        |
-| 🛡️ Seguridad Dependencias | ![Dependabot enabled](https://img.shields.io/github/dependabot/active/SLEP-Colchagua-LCD?style=flat-square&logo=dependabot)                 |
-| 📜 Licencia               | ![License](https://img.shields.io/github/license/SLEP-Colchagua-LCD/SLEP-Colchagua-LCD?style=flat-square&logo=open-source-initiative)       |
-| 🗂️ Tamaño del repositorio | ![Repo size](https://img.shields.io/github/repo-size/SLEP-Colchagua-LCD/SLEP-Colchagua-LCD?style=flat-square)                              |
-| 🔒 Visibilidad            | ![Private repo](https://img.shields.io/badge/repository-private-red?style=flat-square&logo=github)                                         |
-
----
----
-
 ## 🌐 Contacto institucional
 
 📧 [soporte.ti@slepcolchagua.cl](mailto:soporte.ti@slepcolchagua.cl)

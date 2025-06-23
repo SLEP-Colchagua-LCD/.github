@@ -1,29 +1,47 @@
 ---
-name: Bug Report 🐞
-about: Reporta un error o comportamiento inesperado
+name: Reporte de error 🐞
+about: Informa un comportamiento inesperado o fallo del sistema
 title: "[BUG] "
-labels: bug
-assignees: ''
+labels: ["bug"]
+assignees: ""
+---
+
+# 🐛 Descripción del error
+
+Describe de forma clara y específica el problema observado.
+
+Ejemplo: 'Al intentar guardar asistencia, aparece un error 500 en el backend.'
 
 ---
 
-**Descripción del error**
-Describe claramente el problema.
+# 🔁 Pasos para reproducir
 
-**Pasos para reproducir**
 1. Ir a '...'
-2. Hacer clic en '....'
-3. Observar el error
+2. Hacer clic en '...'
+3. Observar el comportamiento
 
-**Comportamiento esperado**
-Explica qué esperabas que ocurriera.
+---
 
-**Capturas de pantalla**
-Si aplica, añade imágenes.
+# ✅ Comportamiento esperado
 
-**Entorno**
- - Navegador: [e.g. Chrome 120]
- - Sistema operativo: [e.g. Windows 10]
+Describe lo que debería haber ocurrido en lugar del error.
 
-**Información adicional**
-Añade cualquier otro dato relevante.
+---
+
+# 📷 Capturas de pantalla (opcional)
+
+Adjunta imágenes si ayudan a ilustrar el problema.
+
+---
+
+# 🖥️ Entorno
+
+- Navegador: por ejemplo, Chrome 120
+- Sistema operativo: por ejemplo, Windows 10
+- Versión del sistema: si aplica
+
+---
+
+# ℹ️ Información adicional
+
+Agrega cualquier dato relevante como logs, errores de consola o condiciones especiales.
