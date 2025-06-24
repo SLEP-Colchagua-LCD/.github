@@ -1,46 +1,50 @@
 # 🛡️ Política de Seguridad
 
-La seguridad de nuestros sistemas es una prioridad en el **Servicio Local de Educación Pública de Colchagua**.
-
-Si detectas una vulnerabilidad o comportamiento inseguro dentro del sistema **Libro de Clases Digital (LCD)** o sus componentes asociados, sigue el protocolo descrito a continuación.
+La seguridad de nuestros sistemas es una prioridad para el **Servicio Local de Educación Pública de Colchagua**.  
+Si descubres una vulnerabilidad en el **Libro de Clases Digital (LCD)** o en alguno de sus componentes, sigue los pasos a continuación.
 
 ---
 
 ## 📣 Cómo reportar una vulnerabilidad
 
-Por favor, **no abras issues públicas** para reportar fallos de seguridad.
+Por favor, **no abras issues públicas** si encuentras un problema de seguridad.  
+En su lugar, repórtalo de forma privada al equipo TI.
 
-En su lugar, informa de manera confidencial al equipo TI:
+### 📧 Contacto seguro
 
-- 📧 Correo de contacto: <soporte.ti@slepcolchagua.cl>
-- Incluye en el mensaje:
-  - Descripción técnica clara del problema
-  - Pasos para reproducir la vulnerabilidad
-  - Alcance e impacto potencial
-  - Archivos o evidencia (opcional)
+- **Correo:** [soporte.ti@slepcolchagua.cl](mailto:soporte.ti@slepcolchagua.cl)
 
-Todos los reportes serán tratados con confidencialidad y profesionalismo.
+### 🔍 Incluye en tu mensaje
 
----
+- Una descripción técnica clara del problema
+- Pasos para reproducir el comportamiento
+- Qué tan grave crees que es (impacto y alcance)
+- Archivos o evidencia que ayuden (opcional)
 
-## ✅ Qué esperar después de enviar el reporte
-
-El equipo:
-
-1. Confirmará recepción del informe en un plazo de 48 horas hábiles.
-2. Evaluará el riesgo y planificará una corrección si corresponde.
-3. Informará sobre el estado del análisis, resolución y cierre del caso.
+Todos los reportes serán manejados con **seriedad, confidencialidad y sin represalias**.
 
 ---
 
-## 🧭 Alcance
+## ✅ ¿Qué puedes esperar después de reportar?
 
-Esta política cubre todos los repositorios privados o internos bajo la organización `SLEP-Colchagua-LCD`, incluyendo:
+Una vez recibido tu informe, el equipo:
 
-- backend y frontend del Libro de Clases Digital
-- scripts de automatización (launcherLCD)
-- pipelines de CI/CD y flujos internos definidos en `.github-private`
+1. Confirmará recepción dentro de las **48 horas hábiles**.
+2. Evaluará el riesgo y validará la vulnerabilidad.
+3. Planificará una solución si corresponde.
+4. Te mantendrá informado sobre el estado del caso hasta su cierre.
 
 ---
 
-🙏 Gracias por ayudar a proteger la infraestructura digital de la educación pública.
+## 🧭 ¿Qué sistemas están cubiertos?
+
+Esta política aplica a todos los sistemas y repositorios bajo la organización `SLEP-Colchagua-LCD`, incluyendo:
+
+- Frontend y backend del **Libro de Clases Digital**
+- Scripts y herramientas internas (como `launcherLCD`)
+- Flujos de integración y despliegue en `.github-private`
+
+---
+
+🙏 Gracias por colaborar en la protección de la infraestructura digital de la educación pública.  
+Tu ayuda es clave para mantener nuestros sistemas seguros y confiables.

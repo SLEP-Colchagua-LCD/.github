@@ -1,48 +1,57 @@
 # 📜 Código de Conducta
 
-El **Servicio Local de Educación Pública de Colchagua** promueve un entorno de trabajo y colaboración que sea **seguro, respetuoso e inclusivo para todas las personas** que participan en sus proyectos digitales, incluyendo el desarrollo del **Libro de Clases Digital (LCD)**.
+El **Servicio Local de Educación Pública de Colchagua** promueve un entorno de trabajo **seguro, respetuoso e inclusivo** para todas las personas que participan en sus proyectos digitales, incluyendo el desarrollo del **Libro de Clases Digital (LCD)**.
+
+Este Código busca guiar nuestras interacciones, tanto en espacios presenciales como virtuales.
 
 ---
 
-## 💡 Principios fundamentales
+## 💡 Nuestros principios
 
 Nos comprometemos a:
 
 - Tratar a todas las personas con **respeto, dignidad y cortesía**, sin importar su rol, experiencia, identidad, origen o creencias.
-- Fomentar una cultura de **colaboración constructiva**, valorando la diversidad de opiniones y habilidades.
-- Mantener la **comunicación abierta y profesional**, evitando sarcasmo hostil, lenguaje despectivo o tono agresivo.
-- Rechazar **cualquier forma de acoso, discriminación, amenazas o exclusión** dentro del entorno técnico, pedagógico o laboral.
+- Fomentar un ambiente de **colaboración constructiva**, donde las diferencias sean valoradas como una fortaleza.
+- Mantener una **comunicación clara, profesional y empática**, evitando sarcasmos hostiles o tonos agresivos.
+- Rechazar cualquier forma de **acoso, discriminación, amenazas o exclusión**, sin excepción.
 
 ---
 
-## 🚫 Comportamientos inaceptables
+## 🚫 Comportamientos que no aceptamos
 
-- Comentarios ofensivos, intimidantes o discriminatorios, tanto en persona como en plataformas digitales.
-- Uso de lenguaje degradante relacionado con género, orientación sexual, etnia, religión, capacidades u otras características personales.
-- Intimidación, acoso sostenido, interrupciones reiteradas o contacto no deseado.
-- Divulgación no autorizada de información sensible o confidencial.
+Estos son ejemplos de conductas que no tienen cabida en este espacio:
 
----
-
-## 📢 Cómo reportar una violación
-
-Si presencias o experimentas alguna conducta que contravenga estos principios:
-
-- 📧 Envía un correo confidencial a: [soporte.ti@slepcolchagua.cl](mailto:soporte.ti@slepcolchagua.cl)
-- Incluye, si es posible:
-  - Fecha, hora y lugar (o canal)
-  - Descripción clara del incidente
-  - Personas involucradas (si aplica)
-  - Evidencia o capturas relevantes (opcional)
-
-Todas las denuncias serán tratadas con **seriedad, confidencialidad y sin represalias**.
+- Lenguaje ofensivo, intimidante o discriminatorio (presencial o digital).
+- Comentarios degradantes relacionados con género, etnia, religión, orientación sexual, discapacidad u otras características personales.
+- Acoso o contacto persistente no deseado.
+- Divulgar información confidencial sin autorización.
 
 ---
 
-## 📌 Aplicación
+## 📢 ¿Cómo reportar una situación?
 
-Este código se aplica a **todo el equipo TI**, colaboradores externos, docentes, asesores y cualquier persona que interactúe con los espacios digitales y proyectos tecnológicos del SLEP Colchagua, incluyendo plataformas, foros, canales de comunicación y repositorios privados.
+Si ves o experimentas una situación que infringe este Código:
+
+- 📧 Escribe de forma confidencial a: [soporte.ti@slepcolchagua.cl](mailto:soporte.ti@slepcolchagua.cl)
+- Incluye si puedes:
+  - Fecha, hora y canal (por ejemplo, reunión o plataforma)
+  - Qué ocurrió y quiénes estaban presentes
+  - Capturas o evidencia (opcional)
+
+🛡️ Tu reporte será tratado con **seriedad, respeto y confidencialidad**. No habrá represalias por denunciar de buena fe.
 
 ---
 
-**Construyamos juntos una cultura tecnológica inclusiva, segura y respetuosa.**
+## 👥 ¿A quién se aplica este código?
+
+Este código se aplica a:
+
+- Personal del equipo TI
+- Colaboradores externos
+- Docentes, asesores, participantes o usuarios
+- Cualquier persona que interactúe con nuestros proyectos, plataformas o repositorios
+
+---
+
+> **Construir tecnología pública es también construir un espacio seguro para todos.**  
+> Gracias por ayudarnos a mantener una cultura respetuosa e inclusiva.

@@ -1,50 +1,54 @@
 # 📘 SLEP Colchagua – Libro de Clases Digital (LCD)
 
-¡Bienvenidos al espacio público de documentación del **Servicio Local de Educación Pública de Colchagua**!  
-Este repositorio funciona como un **centro de referencia y orientación** para quienes colaboran o desean colaborar con el proyecto **Libro de Clases Digital (LCD)**. 🚀
+![Estado del proyecto](https://img.shields.io/badge/Estado-Marcha%20Blanca-yellow)
+![Colaboración](https://img.shields.io/badge/Aportes-Bienvenidos-brightgreen)
+![Visibilidad](https://img.shields.io/badge/Repositorio-Informativo-blue)
+
+¡Bienvenid@ al espacio público del **Servicio Local de Educación Pública de Colchagua**!  
+Este repositorio es el punto de partida y documentación oficial del proyecto **Libro de Clases Digital (LCD)**. 🚀
 
 ---
 
 ## 💡 ¿Qué es el Libro de Clases Digital?
 
-El **Libro de Clases Digital (LCD)** es una plataforma tecnológica que moderniza la gestión escolar en los establecimientos públicos del territorio SLEP Colchagua.
+El **LCD** es una plataforma tecnológica creada por el SLEP Colchagua para **modernizar la gestión escolar** en los establecimientos públicos del territorio.
 
-Sus principales funcionalidades incluyen:
+### Funcionalidades principales
 
 - 📅 Registro digital de asistencia
 - 📝 Ingreso y seguimiento de calificaciones
-- 📊 Reportes administrativos y pedagógicos
-- 🔗 Integración con SIGE y otros sistemas MINEDUC
-- 📱 Acceso diferenciado para docentes, estudiantes y apoderados
+- 📊 Generación de reportes administrativos y pedagógicos
+- 🔗 Integración con sistemas del MINEDUC (como SIGE)
+- 👥 Accesos diferenciados para docentes, UTP, apoderados y estudiantes
 
-> ⚠️ _El código fuente y la infraestructura están alojados en repositorios privados. Este repositorio es solo informativo._
-
----
-
-## 📂 ¿Cómo contribuir?
-
-Si quieres participar del desarrollo o proponer mejoras, sigue estas opciones según tu perfil:
-
-### 🔐 Si eres parte del equipo SLEP o tienes acceso autorizado
-
-- Contacta al equipo TI: [soporte.ti@slepcolchagua.cl](mailto:soporte.ti@slepcolchagua.cl)
-- Solicita acceso a los repositorios privados
-- Una vez habilitado, revisa la [📘 Guía de contribución](../docs/GUIA_CONTRIBUCION.md)
-
-### 📨 Si eres colaborador externo o asesor técnico
-
-- Puedes proponer ideas o reportar errores abriendo un [issue en este repositorio público](https://github.com/SLEP-Colchagua-LCD/portal/issues)
-- También puedes enviar tus aportes por correo
+> ⚠️ El código fuente y la infraestructura están en **repositorios privados**. Este espacio es **informativo y colaborativo**.
 
 ---
 
-## 📥 Recursos disponibles
+## 🤝 ¿Cómo colaborar?
 
-- 🤝 [Guía de contribución](../docs/GUIA_CONTRIBUCION.md)
-- 📜 [Código de conducta](../docs/CODIGO_CONDUCTA.md)
-- 🛡️ [Política de seguridad](../docs/POLITICA_SEGURIDAD.md)
+Dependiendo de tu rol, puedes colaborar de las siguientes formas:
 
-> Estos documentos son públicos y aplican a todos los repositorios internos de LCD.
+### 🔐 Si formas parte del equipo SLEP o cuentas con acceso autorizado
+
+1. Contacta al equipo TI: [soporte.ti@slepcolchagua.cl](mailto:soporte.ti@slepcolchagua.cl)
+2. Solicita acceso a los repositorios privados
+3. Sigue la [Guía de Contribución](https://github.com/SLEP-Colchagua-LCD/.github/blob/main/docs/GUIA_CONTRIBUCION.md)
+
+### 🌍 Si eres colaborador externo o asesor técnico
+
+- Abre un [issue en el repositorio público `portal`](https://github.com/SLEP-Colchagua-LCD/portal/issues)
+- O envía tus ideas, sugerencias o dudas por correo electrónico
+
+---
+
+## 📂 Documentación importante
+
+- 🤝 [Guía de contribución](https://github.com/SLEP-Colchagua-LCD/.github/blob/main/docs/GUIA_CONTRIBUCION.md)  
+- 📜 [Código de conducta](https://github.com/SLEP-Colchagua-LCD/.github/blob/main/docs/CODIGO_CONDUCTA.md)  
+- 🛡️ [Política de seguridad](https://github.com/SLEP-Colchagua-LCD/.github/blob/main/docs/POLITICA_SEGURIDAD.md)
+
+> Estos documentos aplican a todos los repositorios del ecosistema LCD.
 
 ---
 
@@ -67,11 +71,12 @@ Si quieres participar del desarrollo o proponer mejoras, sigue estas opciones se
 
 ## 📫 Contacto institucional
 
-Para consultas, sugerencias o acceso:
+¿Tienes dudas, sugerencias o necesitas acceso?
 
 📧 [soporte.ti@slepcolchagua.cl](mailto:soporte.ti@slepcolchagua.cl)  
-🔒 Acceso a los repos privados disponible bajo autorización institucional
+🔒 El acceso a los repos privados es otorgado bajo autorización institucional.
 
 ---
 
-**Tecnología pública, colaboración responsable.**
+> **📣 Tecnología pública, colaboración responsable.**  
+Hecho con 💙 por el equipo TI de **SLEP Colchagua**

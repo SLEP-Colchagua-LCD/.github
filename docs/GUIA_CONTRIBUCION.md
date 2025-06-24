@@ -1,68 +1,107 @@
-# 🤝 Guía de Contribución
+# 🤝 Guía para Contribuir
 
-Gracias por tu interés en contribuir al desarrollo del **Libro de Clases Digital (LCD)**, una iniciativa del **Servicio Local de Educación Pública de Colchagua**.
+¡Hola! 👋  
+Gracias por querer mejorar el **Libro de Clases Digital (LCD)**.  
+Este proyecto es parte del **Servicio Local de Educación Pública de Colchagua**, y juntos queremos construir tecnología pública que realmente sirva a nuestras escuelas.
 
-Este documento explica cómo colaborar de forma organizada, segura y eficiente en los distintos repositorios del proyecto.
-
----
-
-## 🛠️ ¿Cómo contribuir?
-
-1. Clona el repositorio o crea un fork, si tienes permisos limitados.
-2. Crea una rama nueva con un nombre descriptivo:
-   `feature/nombre-funcionalidad`  
-   `fix/descripcion-error`  
-   `doc/nombre-documento`
-3. Realiza tus cambios aplicando las buenas prácticas del equipo.
-4. Asegúrate de que el proyecto compile y pase las pruebas.
-5. Abre un Pull Request dirigido a la rama `develop`, detallando:
-   - Qué cambios hiciste
-   - Por qué son necesarios
-   - Cómo probarlos
+Aquí te explicamos cómo aportar de forma simple, ordenada y segura.
 
 ---
 
-## 📋 Buenas prácticas
+## 🚀 ¿Cómo empiezo?
 
-- ✅ Sigue las convenciones del equipo (nombres, formato, estructura)
-- ✅ Agrega comentarios en código complejo
-- ✅ Incluye o actualiza pruebas si aplican (unitarias o funcionales)
-- ✅ Escribe mensajes de commit claros y concisos (en español):
-  `feat: agrega filtro por curso`  
-  `fix: corrige error en carga de notas`  
-  `doc: actualiza README con rutas nuevas`
+### 1. Clona o forkea el repositorio
+
+- Si tienes acceso: clónalo directamente.
+- Si no: haz un **fork** y trabaja desde ahí.
+
+### 2. Crea una nueva rama con nombre claro
+
+Usa este formato:
+
+```bash
+feature/nueva-funcionalidad  
+fix/arreglo-de-error  
+doc/actualiza-documentacion  
+```
+
+👉 Ejemplos:
+
+- `feature/agregar-asistencia-por-dia`
+- `fix/error-en-promedio-final`
+
+### 3. Haz tus cambios
+
+Aplica buenas prácticas y comenta lo que no sea obvio.
+
+### 4. Revisa que todo funcione
+
+Antes de subir:
+
+- ✅ Que compile sin errores
+- ✅ Que no rompa lo que ya existe
+- ✅ Que pasen las pruebas (si hay)
+
+### 5. Crea un Pull Request
+
+Dirígelo a la rama `develop` e incluye una descripción breve:
+
+- ✅ Qué hiciste
+- ✅ Por qué lo hiciste
+- ✅ Cómo probarlo
 
 ---
 
-## ❗ No subir al repositorio
+## ✅ Buenas prácticas
 
-- ❌ Contraseñas, claves API o tokens personales
-- ❌ Archivos `.env`, `.pem`, `config.local.json`, etc.
-- ❌ Documentos con datos sensibles o personales
-- ❌ Archivos generados automáticamente (builds, dist, logs, etc.)
+- Nombra bien tus archivos, funciones y ramas
+- Comenta tu código cuando sea necesario
+- Agrega pruebas si tu cambio lo necesita
+- Usa el mismo estilo que ya se usa en el código
+- Escribe **commits en español**, breves y claros:
 
-💡 Usa `.gitignore` para excluir archivos no deseados.
-
----
-
-## 📂 Estructura general (referencial)
-
-`├── src/`  
-`├── docs/`  
-`├── tests/`  
-`├── .github/`  
-`│   ├── ISSUE_TEMPLATE/`  
-`│   └── workflows/`  
-`├── README.md`  
-`└── CONTRIBUTING.md`
+```bash
+feat: permite exportar asistencia a Excel  
+fix: soluciona error al editar calificación  
+doc: agrega guía de despliegue al README  
+```
 
 ---
 
-## 📬 Soporte
+## 🚫 No subas al repositorio
 
-Si tienes dudas técnicas o de proceso, contacta al equipo TI:  
-📧 <soporte.ti@slepcolchagua.cl>
+Evita incluir archivos sensibles o innecesarios, como:
+
+- ❌ Contraseñas o claves privadas
+- ❌ Archivos `.env`, `.pem`, `config.local.json`
+- ❌ Datos personales o confidenciales
+- ❌ Archivos generados automáticamente (`build/`, `dist/`, `logs/`)
+
+💡 Usa el archivo `.gitignore` para excluir estos archivos.
 
 ---
 
-**Colaborar con propósito es construir tecnología pública de calidad.**
+## 📁 Estructura del proyecto (referencia)
+
+```bash
+├── src/               # Código del sistema  
+├── tests/             # Pruebas  
+├── docs/              # Documentación  
+├── .github/           # Configuración de GitHub  
+│   ├── ISSUE_TEMPLATE/  
+│   └── workflows/  
+├── README.md          # Guía general  
+└── CONTRIBUTING.md    # Esta guía  
+```
+
+---
+
+## 📬 ¿Necesitas ayuda?
+
+Si tienes preguntas, escribe al equipo TI:  
+📧 [soporte.ti@slepcolchagua.cl](mailto:soporte.ti@slepcolchagua.cl)
+
+---
+
+> **Construir tecnología pública es construir futuro.**  
+Gracias por ser parte del cambio 💙

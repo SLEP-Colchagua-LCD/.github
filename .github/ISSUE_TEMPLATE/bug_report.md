@@ -1,47 +1,62 @@
 ---
 name: Reporte de error 🐞
-about: Informa un comportamiento inesperado o fallo del sistema
-title: "[BUG] "
+about: Informa un comportamiento inesperado o un fallo del sistema
+title: "[BUG] Describe brevemente el problema"
 labels: ["bug"]
-assignees: ""
+assignees: []
 ---
 
-# 🐛 Descripción del error
+## 🐛 Descripción del error
 
-Describe de forma clara y específica el problema observado.
+Explica de forma clara y concreta qué está pasando.
 
-Ejemplo: 'Al intentar guardar asistencia, aparece un error 500 en el backend.'
-
----
-
-# 🔁 Pasos para reproducir
-
-1. Ir a '...'
-2. Hacer clic en '...'
-3. Observar el comportamiento
+_Ejemplo_:  
+> Al guardar asistencia en un curso, aparece un error 500 desde el backend.
 
 ---
 
-# ✅ Comportamiento esperado
+## 🔁 Pasos para reproducir
 
-Describe lo que debería haber ocurrido en lugar del error.
+Describe cómo llegar al error paso a paso:
 
----
-
-# 📷 Capturas de pantalla (opcional)
-
-Adjunta imágenes si ayudan a ilustrar el problema.
+1. Ir a `...`
+2. Hacer clic en `...`
+3. Aparece el error `...`
 
 ---
 
-# 🖥️ Entorno
+## ✅ Comportamiento esperado
 
-- Navegador: por ejemplo, Chrome 120
-- Sistema operativo: por ejemplo, Windows 10
-- Versión del sistema: si aplica
+¿Qué debería haber pasado si todo funcionara bien?
+
+_Ejemplo_:  
+> Debería haberse guardado la asistencia sin errores y mostrar un mensaje de éxito.
 
 ---
 
-# ℹ️ Información adicional
+## 📷 Capturas de pantalla (opcional)
 
-Agrega cualquier dato relevante como logs, errores de consola o condiciones especiales.
+Si tienes imágenes o GIFs del error, agrégalas aquí:
+
+_Puedes arrastrarlas o pegarlas directamente._
+
+---
+
+## 🖥️ Detalles del entorno
+
+Completa lo que sepas del sistema donde ocurrió el bug:
+
+- **Navegador:** (ej. Chrome 123, Firefox 119)
+- **Sistema operativo:** (ej. Windows 11, macOS Ventura)
+- **Versión del sistema LCD:** (si aplica)
+- **¿Estás logueado como:** Docente / UTP / Apoderado / Otro
+
+---
+
+## 🧩 Información adicional
+
+Incluye cualquier otro dato útil como:
+
+- Logs del navegador o consola (`F12`)
+- Captura de errores en la red (Network tab)
+- Condiciones especiales (ej: sólo pasa con ciertos cursos o perfiles)
