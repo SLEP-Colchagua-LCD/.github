@@ -65,7 +65,17 @@ Dependiendo de tu rol, puedes colaborar de las siguientes formas:
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/><br>Shell</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/><br>Linux</td>
   </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br>GitHub Actions</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40"/><br>K3s / Kubernetes</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="40"/><br>Harbor</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="40"/><br>HAProxy</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/letsencrypt/letsencrypt-original.svg" width="40"/><br>Cert-Manager</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" width="40"/><br>Helm (parcial)</td>
+    <td colspan="2"></td>
+  </tr>
 </table>
+
 
 ---
 
